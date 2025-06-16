@@ -33,7 +33,7 @@
     </item>
     <item>
       <title>Fake link test</title>
-      <link>https://www.visitpeloponnese.com/en</link>
+      <link>https://www.visitpeloponnese.com/en/invalid_nonexistent_url/</link>
       <description>WHAT</description>
       <pubDate>Mon, 16 Jun 2025 - 12:44</pubDate>
       <dc:creator>gns</dc:creator>
