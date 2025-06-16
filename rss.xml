@@ -7,9 +7,9 @@
     <language>en</language>
     
     <item>
-      <title>Crawler Mock Site</title>
-      <link>https://intermedve.github.io/crawler-mock-site/</link>
-      <description>A mock site for crawler testing.</description>
+      <title>NOT a crawler Mock Site</title>
+      <link>https://www.nonexistenturl.wasd123/</link>
+      <description>Not a mock site for crawler testing.</description>
       <pubDate>Fri, 23 May 2025 - 13:55</pubDate>
       <dc:creator>gns</dc:creator>
       <guid isPermaLink="false">0001</guid>
