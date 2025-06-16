@@ -6,14 +6,7 @@
     <description/>
     <language>en</language>
     
-    <item>
-      <title>NOT a crawler Mock Site</title>
-      <link>https://www.nonexistenturl.wasd123/</link>
-      <description>Not a mock site for crawler testing.</description>
-      <pubDate>Fri, 23 May 2025 - 13:55</pubDate>
-      <dc:creator>gns</dc:creator>
-      <guid isPermaLink="false">0001</guid>
-    </item>
+
     <item>
       <title>Ivan's test stuff</title>
       <link>https://www.google.com/</link>
