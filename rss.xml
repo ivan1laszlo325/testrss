@@ -5,7 +5,15 @@
     <link>https://www.test.com/en</link>
     <description/>
     <language>en</language>
-    
+
+    <item>
+      <title>Test 1</title>
+      <link>https://www.visitpeloponnese.com/en/prdct/skiritida-run-2025</link>
+      <description>Sum link</description>
+      <pubDate>Mon, 12 Jun 2025 - 12:01</pubDate>
+      <dc:creator>gns</dc:creator>
+      <guid isPermaLink="false">0003</guid>
+    </item>
 
     <item>
       <title>Ivan's test stuff</title>
