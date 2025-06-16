@@ -31,5 +31,13 @@
       <dc:creator>gns</dc:creator>
       <guid isPermaLink="false">0003</guid>
     </item>
+    <item>
+      <title>Fake link test</title>
+      <link>https://www.visitpeloponnese.com/en/nonexistent_stuff</link>
+      <description>WHAT</description>
+      <pubDate>Mon, 16 Jun 2025 - 12:44</pubDate>
+      <dc:creator>gns</dc:creator>
+      <guid isPermaLink="false">0003</guid>
+    </item>
   </channel>
 </rss>
