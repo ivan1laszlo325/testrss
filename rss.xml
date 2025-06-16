@@ -39,5 +39,13 @@
       <dc:creator>gns</dc:creator>
       <guid isPermaLink="false">0004</guid>
     </item>
+    <item>
+      <title>Test 2</title>
+      <link>https://www.visitpeloponnese.com/en/prdct/archaeological-museum-pylos</link>
+      <description>should work</description>
+      <pubDate>Mon, 16 Jun 2025 - 12:50</pubDate>
+      <dc:creator>gns</dc:creator>
+      <guid isPermaLink="false">0005</guid>
+    </item>
   </channel>
 </rss>
