@@ -47,5 +47,13 @@
       <dc:creator>gns</dc:creator>
       <guid isPermaLink="false">0005</guid>
     </item>
+    <item>
+      <title>Test 3</title>
+      <link>https://slovakia.travel/en/things-to-see-and-do</link>
+      <description>Slovak</description>
+      <pubDate>Mon, 19 Jun 2025 - 13:00</pubDate>
+      <dc:creator>gns</dc:creator>
+      <guid isPermaLink="false">0006</guid>
+    </item>
   </channel>
 </rss>
