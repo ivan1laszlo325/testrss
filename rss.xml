@@ -55,5 +55,13 @@
       <dc:creator>gns</dc:creator>
       <guid isPermaLink="false">0006</guid>
     </item>
+    <item>
+      <title>Test 3</title>
+      <link>https://nonexistent.domain/madeup_link</link>
+      <description>Something</description>
+      <pubDate>Fri, 20 Jun 2025 - 12:27</pubDate>
+      <dc:creator>gns</dc:creator>
+      <guid isPermaLink="false">0007</guid>
+    </item>
   </channel>
 </rss>
