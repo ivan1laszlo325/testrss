@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://www.test.com/en">
+  <channel>
+    <title>Test</title>
+    <link>https://www.test.com/en</link>
+    <description/>
+    <language>en</language>
+    <item>
+      <title>Very Important Additions</title>
+      <link>https://ivan1laszlo325.github.io/crawler-dummy-website/page2.html</link>
+      <description>Something</description>
+      <pubDate>Mon, 23 Jun 2025 - 09:52</pubDate>
+      <dc:creator>gns</dc:creator>
+      <guid isPermaLink="false">0001</guid>
+    </item>
+  </channel>
+</rss>
